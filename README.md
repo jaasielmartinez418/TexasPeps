@@ -112,14 +112,14 @@ footer {
     <div class="products">
 
         <div class="product">
-            <h3>Retatrutide – 10mg</h3>
+            <h3>Retatrutide – 10mg $80.00</h3>
             <p>Lyophilized peptide, high purity research compound.</p>
             <p><strong>Availability:</strong> In Stock</p>
             <button onclick="contact()">Request Order</button>
         </div>
 
         <div class="product">
-            <h3>Retatrutide – 30mg</h3>
+            <h3>Retatrutide – 30mg $200.00</h3>
             <p>Lyophilized peptide, high purity research compound.</p>
             <p><strong>Availability:</strong> In Stock</p>
             <button onclick="contact()">Request Order</button>
@@ -127,14 +127,14 @@ footer {
 
     </div>
 
-    <h2 class="section-title">About TxPeps</h2>
+    <h2 class="section-title">About TexasPeps</h2>
     <p>
     TxPeps is a supplier of research peptides intended exclusively for laboratory and scientific research use. 
     We are committed to providing high-quality compounds for qualified research environments.
     </p>
 
     <h2 class="section-title">Contact</h2>
-    <p>Email: txpeps@email.com</p>
+    <p>Email: jaasielmartinez418@gmail.com</p>
 
 </div>
 
@@ -146,7 +146,7 @@ footer {
 
 <script>
 function contact() {
-    alert("Email txpeps@email.com to place an order.");
+    alert("Email jaasielmartinez418@gmail.com to place an order.");
 }
 </script>
 
