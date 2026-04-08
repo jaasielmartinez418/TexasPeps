@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TxPeps | Research Peptides</title>
+<title>TexasPeps | Research Peptides</title>
 
 <style>
 body {
@@ -96,7 +96,7 @@ footer {
 <body>
 
 <header>
-    <h1>TxPeps</h1>
+    <h1>TexasPeps</h1>
     <div class="tagline">Research Peptides | Laboratory Use Only</div>
 </header>
 
